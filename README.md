@@ -11,3 +11,8 @@ Things to do before the workshop
 3. [Download klayout](https://www.klayout.de/build.html). Windows: [link](https://drive.google.com/file/d/1tlt6L-N6gBrXdL-oOzk-Xr6u5GINnUiT/view?usp=drive_link). Mac: [link](https://drive.google.com/file/d/1v42hDUQMeR0V3f9i-IJ2w1mKoyX8jX7v/view?usp=sharing) (works on M1 mac, Ventura 13.4).
 
 We will be running the tutorial using python notebooks (.ipynb). These can be run through JupyterLab, VS code (install [this](https://marketplace.visualstudio.com/items?itemName=congyiwu.vscode-jupytext) extension), or through Google Colab. You have the option to skip all the steps above and run the notebooks entirely in Google Colab (but with some limitations in klayout integration). You can try it out using this notebooks in this repository, focused on `workshop_part1.ipynb`. In Google Drive you should have the option to select "open with Google Colaboratory"
+
+Google Dirve Links to the notebooks:
+
+https://drive.google.com/file/d/1x6kHQ9nHb1HB4HOEiEr1BG_y5lQ8si3e/view?usp=sharing
+https://drive.google.com/file/d/1Ppz-CDrFezfLTIAHeBLYopl6Q4oyt8a4/view?usp=sharing
