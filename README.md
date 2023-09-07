@@ -14,6 +14,8 @@ Things to do before the workshop
 
 We will be running the tutorial using python notebooks (.ipynb). These can be run through JupyterLab, VS code (install [this](https://marketplace.visualstudio.com/items?itemName=congyiwu.vscode-jupytext) extension), or through Google Colab. You have the option to skip all the steps above and run the notebooks entirely in Google Colab (but with some limitations in klayout integration). You can try it out using this notebooks in this repository, focused on `workshop_part1.ipynb`. In Google Drive you should have the option to select "open with Google Colaboratory"
 
+Click the "Open in Colab" link above to get started, and save a copy of the notebook to your Google Drive.
+
 Google Drive Links to the notebooks:
 
 https://drive.google.com/file/d/1x6kHQ9nHb1HB4HOEiEr1BG_y5lQ8si3e/view?usp=sharing
