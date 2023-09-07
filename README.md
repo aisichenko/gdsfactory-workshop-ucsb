@@ -2,6 +2,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aisichenko/gdsfactory-workshop-ucsb)
 
+
 August 24, 2023 in Henley Hall, UCSB
 
 We are really excited to offer our first hands-on workshop as part of the Photonics Society. Thomas Dorch from Freedom Photonics and myself will present about gdsfactory. Last year we had a seminar by Joaquin Matres, the maintainer of gdsfactory - you can access the video recording [here](https://www.youtube.com/watch?v=_BgVfKytcB4). This workshop we'd like to make this session hands on, so please bring your laptops, chargers, and questions about photonics layout. 
