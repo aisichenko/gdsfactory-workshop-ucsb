@@ -10,7 +10,6 @@ Windows: [link](https://drive.google.com/file/d/1QSFsXPuk6mxdzeQODeS05r9z_irvCWe
 Mac: [link](https://docs.conda.io/en/latest/miniconda.html) (select if Intel or M1)
 
 2. Download a Python IDE. Either Visual Studio Code or Pycharm. Personally I prefer [VS Code](https://code.visualstudio.com/)
-
 3. [Download klayout](https://www.klayout.de/build.html)
    
 Windows: [link](https://drive.google.com/file/d/1tlt6L-N6gBrXdL-oOzk-Xr6u5GINnUiT/view?usp=drive_link)
