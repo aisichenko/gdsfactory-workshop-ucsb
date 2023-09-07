@@ -4,7 +4,7 @@
 
 August 24, 2023 in Henley Hall, UCSB
 
-We are really excited to offer our first hands-on workshop as part of the Photonics Society. [Thomas Dorch](https://github.com/thomasdorch) from Freedom Photonics and myself will present about gdsfactory. Last year we had a seminar by [Joaquin Matres](https://github.com/joamatab), the maintainer of gdsfactory - you can access the video recording [here](https://www.youtube.com/watch?v=_BgVfKytcB4). This workshop we'd like to make this session hands on, so please bring your laptops, chargers, and questions about photonics layout. 
+We are really excited to offer our first hands-on workshop as part of the Photonics Society. [Thomas Dorch](https://github.com/thomasdorch) from Freedom Photonics and myself will present about [gdsfactory](https://gdsfactory.github.io/gdsfactory/). Last year we had a seminar by [Joaquin Matres](https://github.com/joamatab), the maintainer of gdsfactory - you can access the video recording [here](https://www.youtube.com/watch?v=_BgVfKytcB4). This workshop we'd like to make this session hands on, so please bring your laptops, chargers, and questions about photonics layout. 
 
 Things to do before the workshop
 
